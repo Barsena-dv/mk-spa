@@ -86,7 +86,7 @@ mk-spa/
 
 ## 🙌 Credits
 
-Made with 🔥 by:
+Made by:
 
 * **Dhruv Barsena**
 MK logo and character imagery © Warner Bros / NetherRealm Studios.
