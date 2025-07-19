@@ -49,6 +49,16 @@ mk-spa/
 
 ---
 
+## Screenshots
+<img width="1890" height="914" alt="Screenshot 2025-07-19 145026" src="https://github.com/user-attachments/assets/db84a332-a338-4a94-819e-164ba4960fae" />
+<img width="1901" height="832" alt="Screenshot 2025-07-19 145012" src="https://github.com/user-attachments/assets/0fa886db-49a9-4a74-b492-f5975e410afb" />
+<img width="1899" height="907" alt="Screenshot 2025-07-19 144956" src="https://github.com/user-attachments/assets/d3a56e03-ef8c-405c-8ff0-5321421d0955" />
+<img width="1898" height="907" alt="Screenshot 2025-07-19 144943" src="https://github.com/user-attachments/assets/90ce2115-1b55-4cb5-b609-6c4437ec1524" />
+<img width="1919" height="891" alt="Screenshot 2025-07-19 144923" src="https://github.com/user-attachments/assets/999c7dbf-375a-4908-9264-4349e75924ce" />
+<img width="1896" height="892" alt="Screenshot 2025-07-19 144914" src="https://github.com/user-attachments/assets/3befbb27-0f94-45ac-9e0a-2231faea8f1a" />
+
+---
+
 ## 🧾 Installation
 
 1. Clone this repo
@@ -73,26 +83,12 @@ mk-spa/
 
 ---
 
-## 📸 Screenshots
-
-<img width="1890" height="914" alt="Screenshot 2025-07-19 145026" src="https://github.com/user-attachments/assets/85862e11-f863-4ae9-b1da-fdd8fdaaf078" />
-<img width="1901" height="832" alt="Screenshot 2025-07-19 145012" src="https://github.com/user-attachments/assets/cd1fd707-bd53-4e9f-b0c4-18e066587fad" />
-<img width="1899" height="907" alt="Screenshot 2025-07-19 144956" src="https://github.com/user-attachments/assets/1c2748f6-d740-483b-970a-4bf5a7720f83" />
-<img width="1898" height="907" alt="Screenshot 2025-07-19 144943" src="https://github.com/user-attachments/assets/d56d3e40-ca50-4b1a-9529-fd449a34ba58" />
-<img width="1919" height="891" alt="Screenshot 2025-07-19 144923" src="https://github.com/user-attachments/assets/dec55e59-37d1-4420-b563-fc94c93b7d39" />
-<img width="1896" height="892" alt="Screenshot 2025-07-19 144914" src="https://github.com/user-attachments/assets/0feefcac-e78e-4cfe-8473-a35b1649046d" />
-
-
----
 
 ## 🙌 Credits
 
 Made with 🔥 by:
 
 * **Dhruv Barsena**
-* **Khush**
-* **Mohit**
-
 MK logo and character imagery © Warner Bros / NetherRealm Studios.
 
 ---
