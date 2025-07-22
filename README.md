@@ -99,7 +99,3 @@ This project is for **educational/demo purposes**. No commercial use of Mortal K
 
 ```
 
----
-
-Let me know if you'd like me to include GitHub badges, a demo video link, or auto-deploy instructions (e.g., with Vercel or GitHub Pages).
-```
